@@ -31,7 +31,7 @@ CREATE TABLE guests (
   city VARCHAR(50) NOT NULL,
   state VARCHAR(50) NOT NULL,
   zip_code VARCHAR(10) NOT NULL
-) auto_increment = 8801;
+) auto_increment = 88011;
 
 CREATE TABLE rooms (
   room_number INT PRIMARY KEY,
